@@ -1,1 +1,1 @@
-My first readme for the ALX SOftware Engineering course. It iswonderful.
+My first readme for the ALX SOftware Engineering course. It is wonderful.
